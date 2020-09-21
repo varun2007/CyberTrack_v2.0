@@ -23,3 +23,4 @@ sc.exe config tcg_cybertrack_hbeat start= delayed-auto
 ."C:\Program Files (x86)\TCG CyberTrack\tcg_cybertrack_mbeat\install-service-metricbeat.ps1"
 Start-Service tcg_cybertrack_mbeat
 sc.exe config tcg_cybertrack_wbeat start= delayed-auto
+###TCG
